@@ -1,17 +1,17 @@
-// let teks = "Halo"
-// var nama = "Rizky"
+let teks = "Halo"
+var nama = "Rizky"
 
-// console.log(`${teks} ${nama}`)
-
-
-// const kelas = 10
-
-// console.log (`kelas: ${kelas}`)
+console.log(`${teks} ${nama}`)
 
 
-// const dataOrang = ["Rizky", 10, {nama: "Rizky", kelas: 10}]
+const kelas = 10
 
-// console.log(dataOrang)
+console.log (`kelas: ${kelas}`)
+
+
+const dataOrang = ["Rizky", 10, {nama: "Rizky", kelas: 10}]
+
+console.log(dataOrang)
 
 
 const object = {kelas: ["frontend", "backend", "mobile"]}
